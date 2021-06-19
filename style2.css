@@ -54,3 +54,56 @@ p{
     padding-left: 10px;
     padding-right: 10px;
 }
+.a1{
+    font-weight: bolder;
+    font-size: 220%;
+}
+.a2{
+    font-weight: normal;
+    font-size: 140%;
+}
+.hello2{
+    display: flex;
+    color: purple;
+}
+#btu{
+    color:white;
+    display: flex;
+    justify-content: center;
+    background-color: purple ;
+    padding:3%;
+    border: none;
+    font-weight: bolder;
+    font-size: 125%;
+    height: 2%;
+    width: 50%;
+}
+#btn-two{
+    background-color: white;
+    font-weight: normal;
+    font-size: 120%;
+    width:10%;
+}
+#btn-three{
+    background-color: white;
+    border: 1%;
+    border-color: black;
+    width: 8%;
+    padding:1%;
+    font-weight: bold;
+    font-size: 125%;
+}
+#btn-four{
+    background-color: purple;
+    color: white;
+    width:20%;
+    padding:1%;
+    font-size: 120%;
+    font-weight: bold;
+}
+#btn-one{
+    background-color: white;
+    font-weight: normal;
+    font-size:120%;
+    width:10%
+}
